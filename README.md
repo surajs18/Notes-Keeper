@@ -13,3 +13,6 @@ Steps to execute:
 2. Install MongoDB on your pc.
 3. Unzip Notes Keeper.zip.
 4. Run server.js file. (> node server.js)
+
+
+Copyrighted by Suraj S S/O Santosh Kumar S work uploaded on 17 Apr 2022.
