@@ -11,4 +11,5 @@ UI is developed only for laptops & tablet view, you can still use it on other de
 Steps to execute:
 1. Install NodeJS on your pc.
 2. Install MongoDB on your pc.
-3. Run server.js file. (> node server.js)
+3. Unzip Notes Keeper.zip.
+4. Run server.js file. (> node server.js)
